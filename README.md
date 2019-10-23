@@ -8,6 +8,8 @@
 
 ng-with-react 工程的地址：https://github.com/renruijun/ng-with-react
 
+看不懂、想吐槽，可以联系俺：1301914095@qq.com，保证会放下手中的砖头和你好好交流~~
+
 ## 基本信息
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
